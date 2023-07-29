@@ -26,6 +26,11 @@ public class ActionUtils {
     public void findandclick(By element){
         driver.findElement(element).click();
     }
+
+  public void findandclick1(By element){
+        driver.findElement(element).click();
+    }
+
 public void findandsend(By element){
         driver.findElement(element).sendKeys("Adobe Photoshop CS4");
 }
