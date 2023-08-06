@@ -35,6 +35,9 @@ public class Product {
     public void loginpage() {
         actions.loginpage(url);
     }
+   public void loginpage() {
+        actions.loginpage(url);
+    }
  
 
 
