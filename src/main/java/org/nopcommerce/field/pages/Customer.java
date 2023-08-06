@@ -37,6 +37,10 @@ public class Customer {
         actions.loginurl(url);
         actions.findandclick(loginbutton);
     }
+  public void login() {
+        actions.loginurl(url);
+        actions.findandclick(loginbutton);
+    }
     public void Customerpage(){
         actions.findandclick(customermodule);
         actions.findandclick(Customermenu);
