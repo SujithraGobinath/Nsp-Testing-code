@@ -11,11 +11,7 @@ target/
 *.iws
 *.iml
 *.ipr
-<<<<<<< HEAD
-.idea
-=======
 
->>>>>>> feature/test
 ### Eclipse ###
 .apt_generated
 .classpath
